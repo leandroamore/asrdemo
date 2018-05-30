@@ -1,7 +1,7 @@
 
 <head></head>
 <body class="page_bg">
-<div style="text-align: center;"><big style="font-weight: bold;"><big><big>Mi I$
+<div style="text-align: center;"><big style="font-weight: bold;"><big><big>Mi IP publica es:
 <?php
 $realIP = file_get_contents("http://ipecho.net/plain");
 echo $realIP
