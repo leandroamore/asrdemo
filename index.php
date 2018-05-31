@@ -5,7 +5,7 @@
 <?php
 $realIP = file_get_contents("http://ipecho.net/plain");
 echo $realIP
-?>.</big></big></big></div>
+?>. Y soy una WebApp de Azure.</big></big></big></div>
 <br>
 <div style="text-align: center;">
 <img src="./Continuidad.jpg" alt="">
